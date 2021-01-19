@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Diego Ramirez
+
+* I am interested in exploratory data analysis, machine learning and R language.
 
 <!--
 **daarfarias/daarfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
