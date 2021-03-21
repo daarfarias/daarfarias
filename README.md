@@ -3,7 +3,7 @@
 * I am interested in exploratory data analysis, machine learning and R language.
 * Data visualization with Power BI and Tableau.
 
-My Linkedin Profile (https://www.linkedin.com/in/diego-ramirez-jag)
+[My Linkedin Profile](www.linkedin.com/in/diego-ramirez-jag) 
 
 <!--
 **daarfarias/daarfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
