@@ -5,7 +5,7 @@
 <br>
 
 [My Linkedin Profile](www.linkedin.com/in/diego-ramirez-jag) <br>
-[My Public Tableau Profile](https://public.tableau.com/profile/diego.ramirez8076#!/)
+[My Public Tableau Profile](https://public.tableau.com/profile/diego.ramirez8076#!/) <br>
 [My Course Certificates](https://github.com/daarfarias/Certification-courses)
 
 <!--
