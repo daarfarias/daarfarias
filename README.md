@@ -4,7 +4,7 @@
 * Data visualization with Power BI and Tableau.
 <br>
 
-[My Linkedin Profile](www.linkedin.com/in/diego-ramirez-jag) 
+[My Linkedin Profile](www.linkedin.com/in/diego-ramirez-jag) <br>
 [My Public Tableau Profile](https://public.tableau.com/profile/diego.ramirez8076#!/)
 
 <!--
