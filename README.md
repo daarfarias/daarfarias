@@ -6,6 +6,7 @@
 
 [My Linkedin Profile](www.linkedin.com/in/diego-ramirez-jag) <br>
 [My Public Tableau Profile](https://public.tableau.com/profile/diego.ramirez8076#!/)
+[My Course Certificates](https://github.com/daarfarias/Certification-courses)
 
 <!--
 **daarfarias/daarfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
