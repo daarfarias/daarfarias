@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Diego Ramirez
 
-* I am interested in exploratory data analysis and machine learning with R language.
+* I am interested in exploratory data analysis and machine learning, with R language and Python.
 * Data visualization with Power BI and Tableau.
 <br>
 
