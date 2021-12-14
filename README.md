@@ -2,7 +2,7 @@
 
 * I am interested in exploratory data analysis and machine learning, with R language and Python.
 * Data visualization with Power BI and Tableau.
-* Frontend
+* Front-end
 <br>
 
 [My Linkedin Profile](https://www.linkedin.com/in/diego-ramirez-jag) <br>
